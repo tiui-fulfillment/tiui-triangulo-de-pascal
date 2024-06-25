@@ -1,0 +1,24 @@
+{
+  "name": "tiui-triangulo-de-pascal",
+  "version": "1.0.0",
+  "description": "Triángulo De Pascal",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Alejandro López <alejandro.lopez@tiui.mx>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^4.2.1",
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "verbose": true,
+    "transformIgnorePatterns": [
+      "<rootDir>/(node_modules)/"
+    ]
+  }
+}
