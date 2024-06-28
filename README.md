@@ -4,7 +4,13 @@ En Tiui Soluciones, estamos en la búsqueda del mejor talento para unirse a nues
 
 En matemáticas, el triángulo de Pascal es una matriz triangular de los coeficientes binomiales.
 
-Las filas del triángulo de Pascal se enumeran convencionalmente comenzando con la fila n = 0 en la parte superior (la fila 0). Las entradas en cada fila están numeradas desde la izquierda comenzando con k = 0 y generalmente están escalonadas en relación con los números en las filas adyacentes. El triángulo se puede construir de la siguiente manera: en la fila 0 (la fila superior), hay una entrada única distinta de cero 1. Cada entrada de cada fila posterior se construye sumando el número de arriba y a la izquierda con el número de arriba y a la derecha, tratando las entradas en blanco como 0. Por ejemplo, el número inicial en la primera (o cualquier otra) fila es 1 (la suma de 0 y 1), mientras que los números 1 y 3 en la tercera fila se suman para producir el número 4 en la cuarta fila.
+Las filas del triángulo de Pascal se enumeran convencionalmente comenzando con la fila n = 0 en la parte superior (la fila 0). Las entradas en cada fila están numeradas desde la izquierda comenzando con k = 0 y generalmente están escalonadas en relación con los números en las filas adyacentes. 
+
+El triángulo se puede construir de la siguiente manera: en la fila 0 (la fila superior), hay una entrada única distinta de cero 1.
+
+Cada entrada de cada fila posterior se construye sumando el número de arriba y a la izquierda con el número de arriba y a la derecha, tratando las entradas en blanco como 0.
+
+Por ejemplo, el número inicial en la primera (o cualquier otra) fila es 1 (la suma de 0 y 1), mientras que los números 1 y 3 en la tercera fila se suman para producir el número 4 en la cuarta fila.
 
 ![Ejemplo del triángulo de pascal](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tri%C3%A1ngulo_de_Pascal.svg)
 
